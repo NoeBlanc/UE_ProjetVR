@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/noe.blanc/Desktop/UE_ProjetVR/UE_ProjetVR/UE_ProjetVR/Content/StarterContent/Audio/Collapse01.uasset",
+				"C:/Users/noe.blanc/Desktop/UE_ProjetVR/UE_ProjetVR/UE_ProjetVR/Content/VRTemplate/Maps/VRTemplateMap.umap"
+			]
+		}
+	]
+}
