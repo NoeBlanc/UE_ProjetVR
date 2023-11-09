@@ -2321,3 +2321,910 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.09-14.33.58:688][385]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/BP_Slot.BP_Slot
 [2023.11.09-14.33.58:688][385]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
 [2023.11.09-14.33.58:688][385]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/BP_ButtonReset.BP_ButtonReset
+[2023.11.09-14.35.59:894][138]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.11.09-14.35.59:902][138]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.11.09-14.35.59:909][138]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.11.09-14.35.59:925][139]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.11.09-14.36.11:166][272]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2023.11.09-14.36.11:174][272]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.11.09-14.36.12:680][412]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/BP_PlatformGraviton.BP_PlatformGraviton
+[2023.11.09-14.36.12:681][412]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-14.36.12:681][412]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-14.36.24:809][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.11.09-14.36.25:701][754]LogSlate: Window 'Delete Assets' being destroyed
+[2023.11.09-14.36.25:737][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.11.09-14.36.25:764][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.11.09-14.36.25:792][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.11.09-14.39.16:643][440]BlueprintLog: New page: Compile BP_PlatformGraviton
+[2023.11.09-14.39.16:702][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.11.09-14.40.53:650][797]BlueprintLog: New page: Compile BP_PlatformGraviton
+[2023.11.09-14.40.53:706][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.11.09-14.41.49:199][238]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/BPI_Graviton.BPI_Graviton
+[2023.11.09-14.41.49:199][238]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-14.41.49:199][238]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-14.41.52:964][672]BlueprintLog: New page: Compile BP_PlatformGraviton
+[2023.11.09-14.41.53:020][672]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.11.09-14.42.02:944][783]BlueprintLog: New page: Compile BP_GravityButton
+[2023.11.09-14.42.02:995][783]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.11.09-14.42.06:392][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.11.09-14.42.06:420][108]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.11.09-14.42.07:150][108]LogSlate: Window 'Save Content' being destroyed
+[2023.11.09-14.42.07:163][108]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.09-14.42.07:248][108]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.11.09-14.42.07:277][108]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.11.09-14.42.07:278][108]LogSavePackage: Moving '../../../../../../Users/theo.arene/Documents/GitHub/UE_ProjetVR/UE_ProjetVR/Saved/VRTemplateMapB14D37054CEDB9FF945D3CBE78B8FC08.tmp' to '../../../../../../Users/theo.arene/Documents/GitHub/UE_ProjetVR/UE_ProjetVR/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.11.09-14.42.07:286][108]LogFileHelpers: Saving map 'VRTemplateMap' took 0.064
+[2023.11.09-14.42.07:337][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_GravityButton" FILE="../../../../../../Users/theo.arene/Documents/GitHub/UE_ProjetVR/UE_ProjetVR/Content/Blueprint/BP_GravityButton.uasset" SILENT=true
+[2023.11.09-14.42.07:344][108]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_GravityButton
+[2023.11.09-14.42.07:344][108]LogSavePackage: Moving '../../../../../../Users/theo.arene/Documents/GitHub/UE_ProjetVR/UE_ProjetVR/Saved/BP_GravityButton3A5C0852412EE6E7ACE8B3AEF18C0DEA.tmp' to '../../../../../../Users/theo.arene/Documents/GitHub/UE_ProjetVR/UE_ProjetVR/Content/Blueprint/BP_GravityButton.uasset'
+[2023.11.09-14.42.07:359][108]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_PlatformGraviton
+[2023.11.09-14.42.07:360][108]LogSavePackage: Moving '../../../../../../Users/theo.arene/Documents/GitHub/UE_ProjetVR/UE_ProjetVR/Saved/BP_PlatformGravitonD164B5CB4A59B87E77D58D866521757D.tmp' to '../../../../../../Users/theo.arene/Documents/GitHub/UE_ProjetVR/UE_ProjetVR/Content/Blueprint/BP_PlatformGraviton.uasset'
+[2023.11.09-14.42.07:369][108]LogFileHelpers: InternalPromptForCheckoutAndSave took 206 ms (total: 1.70 sec)
+[2023.11.09-14.42.07:379][108]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.09-14.42.07:379][108]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/BP_GravityButton.BP_GravityButton
+[2023.11.09-14.42.07:379][108]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/BP_PlatformGraviton.BP_PlatformGraviton
+[2023.11.09-14.42.07:379][108]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.11.09-14.43.01:898][ 10]BlueprintLog: New page: Compile BP_CubeGraviton
+[2023.11.09-14.43.01:969][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.11.09-14.43.03:755][206]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.09-14.43.03:762][206]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.09-14.43.03:764][206]LogPlayLevel: [PlayLevel] Compiling BP_Slot before play...
+[2023.11.09-14.43.03:828][206]LogPlayLevel: [PlayLevel] Compiling BP_ButtonReset before play...
+[2023.11.09-14.43.03:891][206]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.11.09-14.43.03:893][206]LogPlayLevel: PlayLevel: Blueprint regeneration took 130 ms (2 blueprints)
+[2023.11.09-14.43.03:893][206]PIE: New page: PIE session: VRTemplateMap (9 nov. 2023 à 16:43:03)
+[2023.11.09-14.43.03:893][206]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.11.09-14.43.03:904][206]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010495s)
+[2023.11.09-14.43.03:904][206]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.010534s)
+[2023.11.09-14.43.03:904][206]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-14.43.03:904][206]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-14.43.03:904][206]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.11.09-14.43.03:905][206]LogPlayLevel: PIE: World Init took: (0.001032s)
+[2023.11.09-14.43.03:933][206]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.11.09-14.43.03:935][206]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.11.09-14.43.03:935][206]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.09-14.43.03:935][206]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.09-14.43.03:935][206]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.09-14.43.03:935][206]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.09-14.43.03:935][206]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.09-14.43.03:935][206]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.09-14.43.03:935][206]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.09-14.43.03:935][206]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.09-14.43.03:936][206]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.09-14.43.03:936][206]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.09-14.43.03:936][206]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.09-14.43.03:938][206]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.09-14.43.03:950][206]LogAudioMixer: Display: Using Audio Hardware Device Casque (Oculus Virtual Audio Device)
+[2023.11.09-14.43.03:950][206]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.09-14.43.03:950][206]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.09-14.43.03:950][206]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.09-14.43.03:951][206]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2023.11.09-14.43.03:951][206]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2023.11.09-14.43.03:953][206]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2023.11.09-14.43.03:953][206]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2023.11.09-14.43.03:953][206]LogInit: FAudioDevice initialized with ID 14.
+[2023.11.09-14.43.03:953][206]LogAudio: Display: Audio Device (ID: 14) registered with world 'VRTemplateMap'.
+[2023.11.09-14.43.03:953][206]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2023.11.09-14.43.04:025][206]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-14.43.04:025][206]LogLoad: Game class is 'VRGameMode_C'
+[2023.11.09-14.43.04:031][206]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2023.11.09-15.43.04
+[2023.11.09-14.43.04:032][206]LogWorld: Bringing up level for play took: 0.006115
+[2023.11.09-14.43.04:034][206]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2023.11.09-14.43.04:037][206]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.11.09-14.43.04:038][206]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.11.09-14.43.04:041][206]PIE: Server logged in
+[2023.11.09-14.43.04:042][206]PIE: Play in editor total start time 0,28 seconds.
+[2023.11.09-14.43.04:053][206]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2023.11.09-14.43.04:054][206]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.11.09-14.43.08:066][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-14.43.08:066][658]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.11.09-14.43.08:067][658]LogSlate: Window 'UE_ProjetVR Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.11.09-14.43.08:073][658]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-14.43.08:074][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-14.43.08:086][658]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.09-14.43.08:091][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-14.43.08:121][658]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2023.11.09-14.43.08:121][658]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.11.09-14.43.08:122][658]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.11.09-14.43.08:129][658]LogSlate: Slate User Unregistered.  User Index 8
+[2023.11.09-14.43.08:129][658]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.11.09-14.43.08:130][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.11.09-14.43.08:175][659]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2023.11.09-14.43.18:303][652]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.09-14.43.18:310][652]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.09-14.43.18:310][652]PIE: New page: PIE session: VRTemplateMap (9 nov. 2023 à 16:43:18)
+[2023.11.09-14.43.18:346][652]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.11.09-14.43.18:356][652]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009862s)
+[2023.11.09-14.43.18:356][652]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.009905s)
+[2023.11.09-14.43.18:356][652]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-14.43.18:356][652]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-14.43.18:356][652]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.11.09-14.43.18:357][652]LogPlayLevel: PIE: World Init took: (0.001027s)
+[2023.11.09-14.43.18:386][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.11.09-14.43.18:389][652]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.11.09-14.43.18:389][652]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.09-14.43.18:389][652]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.09-14.43.18:389][652]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.09-14.43.18:389][652]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.09-14.43.18:389][652]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.09-14.43.18:389][652]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.09-14.43.18:389][652]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.09-14.43.18:389][652]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.09-14.43.18:390][652]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.09-14.43.18:390][652]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.09-14.43.18:390][652]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.09-14.43.18:392][652]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.09-14.43.18:403][652]LogAudioMixer: Display: Using Audio Hardware Device Casque (Oculus Virtual Audio Device)
+[2023.11.09-14.43.18:403][652]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.09-14.43.18:403][652]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.09-14.43.18:403][652]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.09-14.43.18:404][652]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2023.11.09-14.43.18:404][652]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2023.11.09-14.43.18:406][652]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2023.11.09-14.43.18:406][652]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2023.11.09-14.43.18:406][652]LogInit: FAudioDevice initialized with ID 15.
+[2023.11.09-14.43.18:406][652]LogAudio: Display: Audio Device (ID: 15) registered with world 'VRTemplateMap'.
+[2023.11.09-14.43.18:406][652]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2023.11.09-14.43.18:410][652]LogLoad: Game class is 'VRGameMode_C'
+[2023.11.09-14.43.18:413][652]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2023.11.09-15.43.18
+[2023.11.09-14.43.18:413][652]LogWorld: Bringing up level for play took: 0.003430
+[2023.11.09-14.43.18:415][652]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2023.11.09-14.43.18:418][652]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.11.09-14.43.18:420][652]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.11.09-14.43.18:421][652]PIE: Server logged in
+[2023.11.09-14.43.18:422][652]PIE: Play in editor total start time 0,112 seconds.
+[2023.11.09-14.43.20:412][869]LogBlueprintUserMessages: [BP_PlatformGraviton_C_1] ALLLLEEEEZ
+[2023.11.09-14.43.33:426][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-14.43.33:426][426]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.11.09-14.43.33:427][426]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-14.43.33:427][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-14.43.33:439][426]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.09-14.43.33:445][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-14.43.33:473][426]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.09-14.43.33:473][426]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2023.11.09-14.43.33:473][426]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.11.09-14.43.33:475][426]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.11.09-14.43.33:481][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-14.43.33:482][426]LogSlate: Slate User Unregistered.  User Index 8
+[2023.11.09-14.43.33:482][426]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.11.09-14.43.33:484][426]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.11.09-14.43.33:524][427]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2023.11.09-14.44.00:771][580]BlueprintLog: New page: Compile BP_PlatformGraviton
+[2023.11.09-14.44.00:823][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.11.09-14.44.01:789][649]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.09-14.44.01:796][649]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.09-14.44.01:796][649]PIE: New page: PIE session: VRTemplateMap (9 nov. 2023 à 16:44:01)
+[2023.11.09-14.44.01:796][649]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.11.09-14.44.01:808][649]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011334s)
+[2023.11.09-14.44.01:808][649]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.011378s)
+[2023.11.09-14.44.01:808][649]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-14.44.01:808][649]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-14.44.01:808][649]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.11.09-14.44.01:809][649]LogPlayLevel: PIE: World Init took: (0.000923s)
+[2023.11.09-14.44.01:837][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.11.09-14.44.01:840][649]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.11.09-14.44.01:840][649]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.09-14.44.01:840][649]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.09-14.44.01:840][649]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.09-14.44.01:840][649]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.09-14.44.01:840][649]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.09-14.44.01:840][649]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.09-14.44.01:840][649]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.09-14.44.01:840][649]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.09-14.44.01:840][649]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.09-14.44.01:841][649]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.09-14.44.01:841][649]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.09-14.44.01:843][649]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.09-14.44.01:853][649]LogAudioMixer: Display: Using Audio Hardware Device Casque (Oculus Virtual Audio Device)
+[2023.11.09-14.44.01:853][649]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.09-14.44.01:854][649]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.09-14.44.01:854][649]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.09-14.44.01:854][649]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2023.11.09-14.44.01:855][649]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2023.11.09-14.44.01:858][649]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2023.11.09-14.44.01:858][649]LogInit: FAudioDevice initialized with ID 16.
+[2023.11.09-14.44.01:858][649]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2023.11.09-14.44.01:858][649]LogAudio: Display: Audio Device (ID: 16) registered with world 'VRTemplateMap'.
+[2023.11.09-14.44.01:858][649]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2023.11.09-14.44.01:953][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-14.44.01:953][649]LogLoad: Game class is 'VRGameMode_C'
+[2023.11.09-14.44.01:958][649]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2023.11.09-15.44.01
+[2023.11.09-14.44.01:958][649]LogWorld: Bringing up level for play took: 0.005180
+[2023.11.09-14.44.01:961][649]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2023.11.09-14.44.01:964][649]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.11.09-14.44.01:965][649]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.11.09-14.44.01:968][649]PIE: Server logged in
+[2023.11.09-14.44.01:969][649]PIE: Play in editor total start time 0,172 seconds.
+[2023.11.09-14.44.01:980][649]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.11.09-14.44.23:789][202]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-14.44.23:789][202]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.11.09-14.44.23:789][202]LogSlate: Window 'UE_ProjetVR Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.11.09-14.44.23:795][202]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-14.44.23:796][202]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-14.44.23:803][202]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.09-14.44.23:811][202]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-14.44.23:839][202]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.09-14.44.23:840][202]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2023.11.09-14.44.23:840][202]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.11.09-14.44.23:842][202]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.11.09-14.44.23:850][202]LogSlate: Slate User Unregistered.  User Index 8
+[2023.11.09-14.44.23:850][202]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.11.09-14.44.23:852][202]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.11.09-14.44.23:882][203]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2023.11.09-14.44.49:858][132]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-14.44.49:883][133]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-14.44.58:810][993]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.11.09-14.44.58:819][993]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.11.09-14.44.58:828][993]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.11.09-14.44.58:840][994]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.11.09-14.45.02:543][409]LogShaderCompilers: Display: ================================================
+[2023.11.09-14.45.02:543][409]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.09-14.45.02:543][409]LogShaderCompilers: Display: Total job queries 67, among them cache hits 7 (10.45%)
+[2023.11.09-14.45.02:543][409]LogShaderCompilers: Display: Tracking 60 distinct input hashes that result in 48 distinct outputs (80.00%)
+[2023.11.09-14.45.02:543][409]LogShaderCompilers: Display: RAM used: 1,95 MiB of 1,60 GiB budget. Usage: 0.12%
+[2023.11.09-14.45.02:544][409]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.09-14.45.02:544][409]LogShaderCompilers: Display: Shaders Compiled: 20
+[2023.11.09-14.45.02:544][409]LogShaderCompilers: Display: Jobs assigned 20, completed 20 (100.00%)
+[2023.11.09-14.45.02:544][409]LogShaderCompilers: Display: Average time worker was idle: 558.25 s
+[2023.11.09-14.45.02:544][409]LogShaderCompilers: Display: Time job spent in pending queue: average 0.23 s, longest 1.15 s
+[2023.11.09-14.45.02:544][409]LogShaderCompilers: Display: Job execution time: average 1.14 s, max 2.93 s
+[2023.11.09-14.45.02:544][409]LogShaderCompilers: Display: Job life time (pending + execution): average 1.37 s, max 2.98
+[2023.11.09-14.45.02:544][409]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.10 s
+[2023.11.09-14.45.02:544][409]LogShaderCompilers: Display: Jobs were issued in 18 batches (only local compilation was used), average 1.11 jobs/batch
+[2023.11.09-14.45.02:544][409]LogShaderCompilers: Display: Average processing rate: 2.47 jobs/sec
+[2023.11.09-14.45.02:544][409]LogShaderCompilers: Display: Total thread time: 15,06 s
+[2023.11.09-14.45.02:544][409]LogShaderCompilers: Display: Total thread preprocess time: 0,352 s
+[2023.11.09-14.45.02:544][409]LogShaderCompilers: Display: Percentage time preprocessing: 2.34%
+[2023.11.09-14.45.02:544][409]LogShaderCompilers: Display: Effective parallelization: 1.86 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.11.09-14.45.02:544][409]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.11.09-14.45.02:544][409]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 2.70 sec, max 2.71 sec, min 2.69 sec)
+[2023.11.09-14.45.02:544][409]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 1.04 sec, max 1.14 sec, min 0.96 sec)
+[2023.11.09-14.45.02:544][409]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 1.03 sec, max 1.13 sec, min 0.91 sec)
+[2023.11.09-14.45.02:544][409]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    2 times, average 0.79 sec, max 0.84 sec, min 0.75 sec)
+[2023.11.09-14.45.02:544][409]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    2 times, average 0.52 sec, max 0.53 sec, min 0.51 sec)
+[2023.11.09-14.45.02:544][409]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.11.09-14.45.02:544][409]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 35.86% of total time (compiled    2 times, average 2.70 sec, max 2.71 sec, min 2.69 sec)
+[2023.11.09-14.45.02:544][409]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 20.68% of total time (compiled    3 times, average 1.04 sec, max 1.14 sec, min 0.96 sec)
+[2023.11.09-14.45.02:544][409]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 20.60% of total time (compiled    3 times, average 1.03 sec, max 1.13 sec, min 0.91 sec)
+[2023.11.09-14.45.02:544][409]LogShaderCompilers: Display:                                                  FHitProxyVS - 10.54% of total time (compiled    2 times, average 0.79 sec, max 0.84 sec, min 0.75 sec)
+[2023.11.09-14.45.02:544][409]LogShaderCompilers: Display:                                                  FHitProxyPS - 6.92% of total time (compiled    2 times, average 0.52 sec, max 0.53 sec, min 0.51 sec)
+[2023.11.09-14.45.02:544][409]LogShaderCompilers: Display: ================================================
+[2023.11.09-14.45.20:280][490]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_GravitonGame
+[2023.11.09-14.45.20:288][490]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.11.09-14.45.23:363][793]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2023.11.09-14.45.27:128][223]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/BP_GravitonGame.BP_GravitonGame
+[2023.11.09-14.45.27:129][223]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-14.45.27:129][223]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-14.45.27:296][223]LogViewport: Scene viewport resized to 738x511, mode Windowed.
+[2023.11.09-14.45.28:444][322]LogViewport: Scene viewport resized to 736x534, mode Windowed.
+[2023.11.09-14.45.28:529][324]LogViewport: Scene viewport resized to 511x331, mode Windowed.
+[2023.11.09-14.45.28:554][325]LogViewport: Scene viewport resized to 467x292, mode Windowed.
+[2023.11.09-14.45.28:592][328]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2023.11.09-14.45.28:710][333]LogViewport: Scene viewport resized to 1139x898, mode Windowed.
+[2023.11.09-14.45.28:795][335]LogViewport: Scene viewport resized to 544x361, mode Windowed.
+[2023.11.09-14.45.28:822][336]LogViewport: Scene viewport resized to 467x292, mode Windowed.
+[2023.11.09-14.45.29:182][378]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2023.11.09-14.45.29:710][439]LogSlate: Window 'BP_GravitonGame' being destroyed
+[2023.11.09-14.45.29:719][439]LogViewport: Scene viewport resized to 1141x928, mode Windowed.
+[2023.11.09-14.45.29:740][440]LogViewport: Scene viewport resized to 1141x920, mode Windowed.
+[2023.11.09-14.45.29:759][441]LogViewport: Scene viewport resized to 1141x913, mode Windowed.
+[2023.11.09-14.45.29:779][442]LogViewport: Scene viewport resized to 1141x905, mode Windowed.
+[2023.11.09-14.45.29:797][443]LogViewport: Scene viewport resized to 1141x898, mode Windowed.
+[2023.11.09-14.45.29:816][444]LogViewport: Scene viewport resized to 1141x891, mode Windowed.
+[2023.11.09-14.45.29:835][445]LogViewport: Scene viewport resized to 1141x883, mode Windowed.
+[2023.11.09-14.45.29:854][446]LogViewport: Scene viewport resized to 1141x876, mode Windowed.
+[2023.11.09-14.45.29:871][447]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2023.11.09-14.45.30:674][537]BlueprintLog: New page: Compile BP_GravitonGame
+[2023.11.09-14.45.30:726][537]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.11.09-14.45.35:832][107]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-14.45.43:012][903]BlueprintLog: New page: Compile BP_GravitonGame
+[2023.11.09-14.45.43:061][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.11.09-14.46.23:504][953]BlueprintLog: New page: Compile BP_GravitonGame
+[2023.11.09-14.46.23:552][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.11.09-14.46.24:557][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.11.09-14.46.24:585][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.11.09-14.46.25:596][ 59]LogSlate: Window 'Save Content' being destroyed
+[2023.11.09-14.46.25:615][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.09-14.46.25:700][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.11.09-14.46.25:731][ 59]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.11.09-14.46.25:731][ 59]LogSavePackage: Moving '../../../../../../Users/theo.arene/Documents/GitHub/UE_ProjetVR/UE_ProjetVR/Saved/VRTemplateMap4DCBFEFE423B0A17BC6B15AF5DC2786C.tmp' to '../../../../../../Users/theo.arene/Documents/GitHub/UE_ProjetVR/UE_ProjetVR/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.11.09-14.46.25:739][ 59]LogFileHelpers: Saving map 'VRTemplateMap' took 0.069
+[2023.11.09-14.46.25:803][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_CubeGraviton" FILE="../../../../../../Users/theo.arene/Documents/GitHub/UE_ProjetVR/UE_ProjetVR/Content/Blueprint/BP_CubeGraviton.uasset" SILENT=true
+[2023.11.09-14.46.25:808][ 59]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_CubeGraviton
+[2023.11.09-14.46.25:809][ 59]LogSavePackage: Moving '../../../../../../Users/theo.arene/Documents/GitHub/UE_ProjetVR/UE_ProjetVR/Saved/BP_CubeGravitonC35E3E1F4D49EF592E9E85A3229F331C.tmp' to '../../../../../../Users/theo.arene/Documents/GitHub/UE_ProjetVR/UE_ProjetVR/Content/Blueprint/BP_CubeGraviton.uasset'
+[2023.11.09-14.46.25:815][ 59]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/BP_GravitonGame
+[2023.11.09-14.46.25:815][ 59]LogSavePackage: Moving '../../../../../../Users/theo.arene/Documents/GitHub/UE_ProjetVR/UE_ProjetVR/Saved/BP_GravitonGameFF01D9034690AE4C77844F90E9312703.tmp' to '../../../../../../Users/theo.arene/Documents/GitHub/UE_ProjetVR/UE_ProjetVR/Content/VRTemplate/Blueprints/BP_GravitonGame.uasset'
+[2023.11.09-14.46.25:832][ 59]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_PlatformGraviton
+[2023.11.09-14.46.25:832][ 59]LogSavePackage: Moving '../../../../../../Users/theo.arene/Documents/GitHub/UE_ProjetVR/UE_ProjetVR/Saved/BP_PlatformGraviton0C6F9FA947250FE8F9F9EABC488EDF5D.tmp' to '../../../../../../Users/theo.arene/Documents/GitHub/UE_ProjetVR/UE_ProjetVR/Content/Blueprint/BP_PlatformGraviton.uasset'
+[2023.11.09-14.46.25:840][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave took 224 ms (total: 1.92 sec)
+[2023.11.09-14.46.25:850][ 59]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.09-14.46.25:850][ 59]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/BP_CubeGraviton.BP_CubeGraviton
+[2023.11.09-14.46.25:850][ 59]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/BP_PlatformGraviton.BP_PlatformGraviton
+[2023.11.09-14.46.25:850][ 59]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.11.09-14.46.25:850][ 59]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Blueprints/BP_GravitonGame.BP_GravitonGame
+[2023.11.09-14.46.33:393][895]LogMetaData: Removing '/Game/Blueprint/BP_GravitonGame.BP_GravitonGame:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/VRTemplate/Blueprints/BP_GravitonGame.PackageMetaData'
+[2023.11.09-14.46.33:393][895]LogMetaData: Removing '/Game/Blueprint/BP_GravitonGame.SKEL_BP_GravitonGame_C' ref from Metadata '/Game/VRTemplate/Blueprints/BP_GravitonGame.PackageMetaData'
+[2023.11.09-14.46.33:393][895]LogMetaData: Removing '/Game/Blueprint/BP_GravitonGame.BP_GravitonGame_C' ref from Metadata '/Game/VRTemplate/Blueprints/BP_GravitonGame.PackageMetaData'
+[2023.11.09-14.46.33:393][895]LogMetaData: Removing '/Game/Blueprint/BP_GravitonGame.BP_GravitonGame:EventGraph.K2Node_Event_0' ref from Metadata '/Game/VRTemplate/Blueprints/BP_GravitonGame.PackageMetaData'
+[2023.11.09-14.46.33:393][895]LogMetaData: Removing '/Game/Blueprint/BP_GravitonGame.BP_GravitonGame:EventGraph.K2Node_Event_1' ref from Metadata '/Game/VRTemplate/Blueprints/BP_GravitonGame.PackageMetaData'
+[2023.11.09-14.46.33:393][895]LogMetaData: Removing '/Game/Blueprint/BP_GravitonGame.BP_GravitonGame:EventGraph.K2Node_Event_2' ref from Metadata '/Game/VRTemplate/Blueprints/BP_GravitonGame.PackageMetaData'
+[2023.11.09-14.46.33:393][895]LogMetaData: Removing '/Game/Blueprint/BP_GravitonGame.SKEL_BP_GravitonGame_C:ReceiveBeginPlay' ref from Metadata '/Game/VRTemplate/Blueprints/BP_GravitonGame.PackageMetaData'
+[2023.11.09-14.46.33:393][895]LogMetaData: Removing '/Game/Blueprint/BP_GravitonGame.SKEL_BP_GravitonGame_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/VRTemplate/Blueprints/BP_GravitonGame.PackageMetaData'
+[2023.11.09-14.46.33:393][895]LogMetaData: Removing '/Game/Blueprint/BP_GravitonGame.SKEL_BP_GravitonGame_C:ReceiveTick' ref from Metadata '/Game/VRTemplate/Blueprints/BP_GravitonGame.PackageMetaData'
+[2023.11.09-14.46.33:393][895]LogMetaData: Removing '/Game/Blueprint/BP_GravitonGame.SKEL_BP_GravitonGame_C:UserConstructionScript' ref from Metadata '/Game/VRTemplate/Blueprints/BP_GravitonGame.PackageMetaData'
+[2023.11.09-14.46.33:393][895]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.09-14.46.33:452][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_GravitonGame" FILE="../../../../../../Users/theo.arene/Documents/GitHub/UE_ProjetVR/UE_ProjetVR/Content/Blueprint/BP_GravitonGame.uasset" SILENT=true
+[2023.11.09-14.46.33:455][895]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_GravitonGame
+[2023.11.09-14.46.33:455][895]LogSavePackage: Moving '../../../../../../Users/theo.arene/Documents/GitHub/UE_ProjetVR/UE_ProjetVR/Saved/BP_GravitonGameE6908CEE4E0C779023433F9F73757AD0.tmp' to '../../../../../../Users/theo.arene/Documents/GitHub/UE_ProjetVR/UE_ProjetVR/Content/Blueprint/BP_GravitonGame.uasset'
+[2023.11.09-14.46.33:470][895]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 2.00 sec)
+[2023.11.09-14.46.33:515][895]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.11.09-14.46.33:545][895]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.11.09-14.46.33:572][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.11.09-14.46.33:592][895]AssetCheck: New page: Asset Save: BP_GravitonGame
+[2023.11.09-14.46.33:592][895]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/BP_GravitonGame.BP_GravitonGame
+[2023.11.09-14.46.45:267][187]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprint/BP_GravitonGame.BP_GravitonGame_C
+[2023.11.09-14.46.45:267][187]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprint/BP_GravitonGame.BP_GravitonGame_C
+[2023.11.09-14.46.45:267][187]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprint/BP_GravitonGame.BP_GravitonGame as actor: BP_GravitonGame_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.BP_GravitonGame_C_0
+[2023.11.09-14.46.45:269][187]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprint/BP_GravitonGame.BP_GravitonGame as actor: BP_GravitonGame_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.BP_GravitonGame_C_0
+[2023.11.09-14.46.45:892][230]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprint/BP_GravitonGame.BP_GravitonGame_C
+[2023.11.09-14.46.45:892][230]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprint/BP_GravitonGame.BP_GravitonGame_C
+[2023.11.09-14.46.45:895][230]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprint/BP_GravitonGame.BP_GravitonGame as actor: BP_GravitonGame_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.BP_GravitonGame_C_1
+[2023.11.09-14.46.45:896][230]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprint/BP_GravitonGame.BP_GravitonGame as actor: BP_GravitonGame_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.BP_GravitonGame_C_1
+[2023.11.09-14.47.57:985][514]BlueprintLog: New page: Compile BP_GravityButton
+[2023.11.09-14.47.58:037][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.11.09-14.48.01:652][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.11.09-14.48.01:684][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.11.09-14.48.02:488][802]LogSlate: Window 'Save Content' being destroyed
+[2023.11.09-14.48.02:499][802]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.09-14.48.02:582][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.11.09-14.48.02:612][802]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.11.09-14.48.02:612][802]LogSavePackage: Moving '../../../../../../Users/theo.arene/Documents/GitHub/UE_ProjetVR/UE_ProjetVR/Saved/VRTemplateMapC7504FBA452BDA0961EAF3B5701ABAD2.tmp' to '../../../../../../Users/theo.arene/Documents/GitHub/UE_ProjetVR/UE_ProjetVR/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.11.09-14.48.02:623][802]LogFileHelpers: Saving map 'VRTemplateMap' took 0.071
+[2023.11.09-14.48.02:675][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_GravityButton" FILE="../../../../../../Users/theo.arene/Documents/GitHub/UE_ProjetVR/UE_ProjetVR/Content/Blueprint/BP_GravityButton.uasset" SILENT=true
+[2023.11.09-14.48.02:681][802]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_GravityButton
+[2023.11.09-14.48.02:682][802]LogSavePackage: Moving '../../../../../../Users/theo.arene/Documents/GitHub/UE_ProjetVR/UE_ProjetVR/Saved/BP_GravityButtonCD6BE0F1480819B6CD005E8F16146643.tmp' to '../../../../../../Users/theo.arene/Documents/GitHub/UE_ProjetVR/UE_ProjetVR/Content/Blueprint/BP_GravityButton.uasset'
+[2023.11.09-14.48.02:698][802]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_PlatformGraviton
+[2023.11.09-14.48.02:698][802]LogSavePackage: Moving '../../../../../../Users/theo.arene/Documents/GitHub/UE_ProjetVR/UE_ProjetVR/Saved/BP_PlatformGravitonADD5BD124B1D8FF3FD2020918C48863E.tmp' to '../../../../../../Users/theo.arene/Documents/GitHub/UE_ProjetVR/UE_ProjetVR/Content/Blueprint/BP_PlatformGraviton.uasset'
+[2023.11.09-14.48.02:707][802]LogFileHelpers: InternalPromptForCheckoutAndSave took 207 ms (total: 2.20 sec)
+[2023.11.09-14.48.02:717][802]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.09-14.48.02:717][802]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/BP_GravityButton.BP_GravityButton
+[2023.11.09-14.48.02:717][802]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/BP_PlatformGraviton.BP_PlatformGraviton
+[2023.11.09-14.48.02:717][802]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.11.09-14.48.40:134][ 64]BlueprintLog: New page: Compile BP_GravitonGame
+[2023.11.09-14.48.40:186][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.11.09-14.50.05:976][347]BlueprintLog: New page: Compile BP_GravitonGame
+[2023.11.09-14.50.06:029][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.11.09-14.50.28:637][677]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.11.09-14.50.28:637][677]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.11.09-14.50.32:467][ 27]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.09-14.50.32:544][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.11.09-14.50.32:575][ 27]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.11.09-14.50.32:577][ 27]LogSavePackage: Moving '../../../../../../Users/theo.arene/Documents/GitHub/UE_ProjetVR/UE_ProjetVR/Saved/VRTemplateMap370A069C4D15E3914D044F850D5B641E.tmp' to '../../../../../../Users/theo.arene/Documents/GitHub/UE_ProjetVR/UE_ProjetVR/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.11.09-14.50.32:585][ 27]LogFileHelpers: Saving map 'VRTemplateMap' took 0.071
+[2023.11.09-14.50.32:594][ 27]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 2.33 sec)
+[2023.11.09-14.50.32:601][ 27]AssetCheck: New page: Asset Save: VRTemplateMap
+[2023.11.09-14.50.32:601][ 27]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.11.09-14.53.08:374][277]BlueprintLog: New page: Compile BP_GravitonGame
+[2023.11.09-14.53.08:431][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.11.09-14.56.05:397][751]BlueprintLog: New page: Compile BP_GravitonGame
+[2023.11.09-14.56.05:456][751]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.11.09-14.56.41:321][700]BlueprintLog: New page: Compile BP_GravitonGame
+[2023.11.09-14.56.41:378][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.11.09-14.56.50:231][657]BlueprintLog: New page: Compile BP_GravitonGame
+[2023.11.09-14.56.50:286][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.11.09-14.57.34:233][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.11.09-14.57.34:264][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.11.09-14.57.35:174][769]LogSlate: Window 'Save Content' being destroyed
+[2023.11.09-14.57.35:184][769]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.09-14.57.35:272][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.11.09-14.57.35:301][769]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.11.09-14.57.35:302][769]LogSavePackage: Moving '../../../../../../Users/theo.arene/Documents/GitHub/UE_ProjetVR/UE_ProjetVR/Saved/VRTemplateMapDCADC5C2447AABC4F0B7FC9F84DBED3B.tmp' to '../../../../../../Users/theo.arene/Documents/GitHub/UE_ProjetVR/UE_ProjetVR/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.11.09-14.57.35:311][769]LogFileHelpers: Saving map 'VRTemplateMap' took 0.068
+[2023.11.09-14.57.35:311][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_GravitonGame" FILE="../../../../../../Users/theo.arene/Documents/GitHub/UE_ProjetVR/UE_ProjetVR/Content/Blueprint/BP_GravitonGame.uasset" SILENT=true
+[2023.11.09-14.57.35:319][769]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_GravitonGame
+[2023.11.09-14.57.35:319][769]LogSavePackage: Moving '../../../../../../Users/theo.arene/Documents/GitHub/UE_ProjetVR/UE_ProjetVR/Saved/BP_GravitonGameBFAC46F1409D013B5C30098DFF8292AB.tmp' to '../../../../../../Users/theo.arene/Documents/GitHub/UE_ProjetVR/UE_ProjetVR/Content/Blueprint/BP_GravitonGame.uasset'
+[2023.11.09-14.57.35:327][769]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 2.48 sec)
+[2023.11.09-14.57.35:338][769]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.09-14.57.35:338][769]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.11.09-14.57.35:338][769]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/BP_GravitonGame.BP_GravitonGame
+[2023.11.09-14.58.04:986][383]LogDerivedDataCache: C:/Users/theo.arene/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.063 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1111 files in 1710 folders with total size 60 MiB.
+[2023.11.09-14.58.24:778][767]BlueprintLog: New page: Compile BP_GravitonGame
+[2023.11.09-14.58.24:830][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.11.09-14.58.26:069][908]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.09-14.58.26:078][908]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.09-14.58.26:085][908]LogPlayLevel: [PlayLevel] Compiling BP_PlatformGraviton before play...
+[2023.11.09-14.58.26:156][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.11.09-14.58.26:158][908]LogPlayLevel: PlayLevel: Blueprint regeneration took 80 ms (1 blueprints)
+[2023.11.09-14.58.26:159][908]PIE: New page: PIE session: VRTemplateMap (9 nov. 2023 à 16:58:26)
+[2023.11.09-14.58.26:159][908]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.11.09-14.58.26:168][908]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009989s)
+[2023.11.09-14.58.26:168][908]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.010043s)
+[2023.11.09-14.58.26:168][908]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-14.58.26:168][908]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-14.58.26:169][908]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.11.09-14.58.26:169][908]LogPlayLevel: PIE: World Init took: (0.001097s)
+[2023.11.09-14.58.26:200][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.11.09-14.58.26:201][908]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2023.11.09-14.58.26:201][908]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.09-14.58.26:201][908]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.09-14.58.26:201][908]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.09-14.58.26:201][908]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.09-14.58.26:201][908]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.09-14.58.26:201][908]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.09-14.58.26:201][908]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.09-14.58.26:201][908]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.09-14.58.26:202][908]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.09-14.58.26:202][908]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.09-14.58.26:202][908]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.09-14.58.26:205][908]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.09-14.58.26:217][908]LogAudioMixer: Display: Using Audio Hardware Device Casque (Oculus Virtual Audio Device)
+[2023.11.09-14.58.26:217][908]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.09-14.58.26:217][908]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.09-14.58.26:217][908]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.09-14.58.26:218][908]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2023.11.09-14.58.26:218][908]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2023.11.09-14.58.26:220][908]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2023.11.09-14.58.26:220][908]LogInit: FAudioDevice initialized with ID 17.
+[2023.11.09-14.58.26:220][908]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2023.11.09-14.58.26:220][908]LogAudio: Display: Audio Device (ID: 17) registered with world 'VRTemplateMap'.
+[2023.11.09-14.58.26:220][908]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2023.11.09-14.58.26:277][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-14.58.26:277][908]LogLoad: Game class is 'VRGameMode_C'
+[2023.11.09-14.58.26:281][908]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2023.11.09-15.58.26
+[2023.11.09-14.58.26:282][908]LogWorld: Bringing up level for play took: 0.004584
+[2023.11.09-14.58.26:285][908]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2023.11.09-14.58.26:288][908]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.11.09-14.58.26:288][908]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.11.09-14.58.26:291][908]PIE: Server logged in
+[2023.11.09-14.58.26:291][908]PIE: Play in editor total start time 0,215 seconds.
+[2023.11.09-14.58.26:319][908]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.11.09-14.58.28:377][123]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-14.58.28:377][123]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.11.09-14.58.28:378][123]LogSlate: Window 'UE_ProjetVR Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.11.09-14.58.28:384][123]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-14.58.28:385][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-14.58.28:396][123]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.09-14.58.28:403][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-14.58.28:431][123]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2023.11.09-14.58.28:432][123]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.11.09-14.58.28:433][123]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.11.09-14.58.28:440][123]LogSlate: Slate User Unregistered.  User Index 8
+[2023.11.09-14.58.28:440][123]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.11.09-14.58.28:443][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.11.09-14.58.28:470][124]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2023.11.09-14.58.34:036][712]BlueprintLog: New page: Compile BP_GravitonGame
+[2023.11.09-14.58.34:088][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.11.09-14.58.34:904][799]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.09-14.58.34:912][799]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.09-14.58.34:912][799]PIE: New page: PIE session: VRTemplateMap (9 nov. 2023 à 16:58:34)
+[2023.11.09-14.58.34:912][799]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.11.09-14.58.34:923][799]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010571s)
+[2023.11.09-14.58.34:923][799]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.010613s)
+[2023.11.09-14.58.34:923][799]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-14.58.34:923][799]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-14.58.34:924][799]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.11.09-14.58.34:924][799]LogPlayLevel: PIE: World Init took: (0.001113s)
+[2023.11.09-14.58.34:950][799]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.11.09-14.58.34:952][799]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.11.09-14.58.34:952][799]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.09-14.58.34:952][799]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.09-14.58.34:953][799]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.09-14.58.34:953][799]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.09-14.58.34:953][799]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.09-14.58.34:953][799]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.09-14.58.34:953][799]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.09-14.58.34:953][799]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.09-14.58.34:953][799]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.09-14.58.34:953][799]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.09-14.58.34:953][799]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.09-14.58.34:956][799]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.09-14.58.34:966][799]LogAudioMixer: Display: Using Audio Hardware Device Casque (Oculus Virtual Audio Device)
+[2023.11.09-14.58.34:966][799]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.09-14.58.34:966][799]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.09-14.58.34:966][799]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.09-14.58.34:967][799]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2023.11.09-14.58.34:967][799]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2023.11.09-14.58.34:969][799]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2023.11.09-14.58.34:969][799]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2023.11.09-14.58.34:969][799]LogInit: FAudioDevice initialized with ID 18.
+[2023.11.09-14.58.34:969][799]LogAudio: Display: Audio Device (ID: 18) registered with world 'VRTemplateMap'.
+[2023.11.09-14.58.34:969][799]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2023.11.09-14.58.35:026][799]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-14.58.35:026][799]LogLoad: Game class is 'VRGameMode_C'
+[2023.11.09-14.58.35:032][799]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2023.11.09-15.58.35
+[2023.11.09-14.58.35:032][799]LogWorld: Bringing up level for play took: 0.005278
+[2023.11.09-14.58.35:034][799]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2023.11.09-14.58.35:038][799]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.11.09-14.58.35:039][799]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.11.09-14.58.35:042][799]PIE: Server logged in
+[2023.11.09-14.58.35:042][799]PIE: Play in editor total start time 0,131 seconds.
+[2023.11.09-14.58.35:054][799]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.11.09-14.58.38:257][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-14.58.38:257][143]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.11.09-14.58.38:258][143]LogSlate: Window 'UE_ProjetVR Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.11.09-14.58.38:264][143]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-14.58.38:264][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-14.58.38:274][143]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.09-14.58.38:279][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-14.58.38:308][143]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.09-14.58.38:308][143]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2023.11.09-14.58.38:308][143]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.11.09-14.58.38:310][143]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.11.09-14.58.38:316][143]LogSlate: Slate User Unregistered.  User Index 8
+[2023.11.09-14.58.38:316][143]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.11.09-14.58.38:319][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.11.09-14.58.38:350][144]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2023.11.09-14.58.51:511][596]BlueprintLog: New page: Compile BP_GravitonGame
+[2023.11.09-14.58.51:565][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.11.09-14.58.52:343][682]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.09-14.58.52:351][682]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.09-14.58.52:351][682]PIE: New page: PIE session: VRTemplateMap (9 nov. 2023 à 16:58:52)
+[2023.11.09-14.58.52:351][682]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.11.09-14.58.52:363][682]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011464s)
+[2023.11.09-14.58.52:363][682]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.011505s)
+[2023.11.09-14.58.52:363][682]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-14.58.52:363][682]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-14.58.52:363][682]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.11.09-14.58.52:364][682]LogPlayLevel: PIE: World Init took: (0.000933s)
+[2023.11.09-14.58.52:393][682]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.11.09-14.58.52:395][682]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2023.11.09-14.58.52:395][682]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.09-14.58.52:395][682]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.09-14.58.52:395][682]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.09-14.58.52:395][682]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.09-14.58.52:395][682]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.09-14.58.52:395][682]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.09-14.58.52:395][682]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.09-14.58.52:395][682]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.09-14.58.52:396][682]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.09-14.58.52:396][682]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.09-14.58.52:396][682]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.09-14.58.52:399][682]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.09-14.58.52:423][682]LogAudioMixer: Display: Using Audio Hardware Device Casque (Oculus Virtual Audio Device)
+[2023.11.09-14.58.52:423][682]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.09-14.58.52:423][682]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.09-14.58.52:423][682]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.09-14.58.52:424][682]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2023.11.09-14.58.52:424][682]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2023.11.09-14.58.52:427][682]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2023.11.09-14.58.52:427][682]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2023.11.09-14.58.52:427][682]LogInit: FAudioDevice initialized with ID 19.
+[2023.11.09-14.58.52:427][682]LogAudio: Display: Audio Device (ID: 19) registered with world 'VRTemplateMap'.
+[2023.11.09-14.58.52:427][682]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2023.11.09-14.58.52:476][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-14.58.52:477][682]LogLoad: Game class is 'VRGameMode_C'
+[2023.11.09-14.58.52:481][682]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2023.11.09-15.58.52
+[2023.11.09-14.58.52:481][682]LogWorld: Bringing up level for play took: 0.004921
+[2023.11.09-14.58.52:485][682]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2023.11.09-14.58.52:487][682]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.11.09-14.58.52:489][682]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.11.09-14.58.52:491][682]PIE: Server logged in
+[2023.11.09-14.58.52:492][682]PIE: Play in editor total start time 0,141 seconds.
+[2023.11.09-14.58.52:505][682]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.11.09-14.58.54:577][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-14.58.54:577][891]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.11.09-14.58.54:578][891]LogSlate: Window 'UE_ProjetVR Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.11.09-14.58.54:585][891]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-14.58.54:586][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-14.58.54:594][891]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.09-14.58.54:600][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-14.58.54:630][891]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.09-14.58.54:631][891]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2023.11.09-14.58.54:631][891]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.11.09-14.58.54:632][891]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.11.09-14.58.54:639][891]LogSlate: Slate User Unregistered.  User Index 8
+[2023.11.09-14.58.54:639][891]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.11.09-14.58.54:641][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.11.09-14.58.54:670][892]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2023.11.09-14.59.08:252][321]BlueprintLog: New page: Compile BP_PlatformGraviton
+[2023.11.09-14.59.08:265][321]LogClass: Warning: Type mismatch in Game of BP_PlatformGraviton_C - Previous (BoolProperty) Current(ObjectProperty) for package:  FObjectReader
+[2023.11.09-14.59.08:318][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.11.09-14.59.11:233][522]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.11.09-14.59.11:233][522]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.11.09-14.59.19:575][318]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.11.09-14.59.19:575][318]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.11.09-14.59.27:788][ 66]BlueprintLog: New page: Compile BP_PlatformGraviton
+[2023.11.09-14.59.27:846][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.11.09-14.59.56:518][642]LogSlate: Window 'Delete Variable' being destroyed
+[2023.11.09-15.00.00:352][ 89]BlueprintLog: New page: Compile BP_PlatformGraviton
+[2023.11.09-15.00.00:411][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.11.09-15.00.01:989][177]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.09-15.00.01:996][177]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.09-15.00.01:996][177]PIE: New page: PIE session: VRTemplateMap (9 nov. 2023 à 17:00:01)
+[2023.11.09-15.00.02:037][177]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.11.09-15.00.02:047][177]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009938s)
+[2023.11.09-15.00.02:048][177]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.009988s)
+[2023.11.09-15.00.02:048][177]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-15.00.02:048][177]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-15.00.02:048][177]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.11.09-15.00.02:049][177]LogPlayLevel: PIE: World Init took: (0.001130s)
+[2023.11.09-15.00.02:075][177]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.11.09-15.00.02:078][177]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2023.11.09-15.00.02:078][177]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.09-15.00.02:078][177]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.09-15.00.02:078][177]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.09-15.00.02:078][177]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.09-15.00.02:078][177]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.09-15.00.02:078][177]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.09-15.00.02:078][177]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.09-15.00.02:078][177]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.09-15.00.02:079][177]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.09-15.00.02:079][177]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.09-15.00.02:079][177]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.09-15.00.02:081][177]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.09-15.00.02:091][177]LogAudioMixer: Display: Using Audio Hardware Device Casque (Oculus Virtual Audio Device)
+[2023.11.09-15.00.02:092][177]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.09-15.00.02:092][177]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.09-15.00.02:092][177]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.09-15.00.02:093][177]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2023.11.09-15.00.02:093][177]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2023.11.09-15.00.02:095][177]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2023.11.09-15.00.02:095][177]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2023.11.09-15.00.02:096][177]LogInit: FAudioDevice initialized with ID 20.
+[2023.11.09-15.00.02:096][177]LogAudio: Display: Audio Device (ID: 20) registered with world 'VRTemplateMap'.
+[2023.11.09-15.00.02:096][177]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2023.11.09-15.00.02:099][177]LogLoad: Game class is 'VRGameMode_C'
+[2023.11.09-15.00.02:103][177]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2023.11.09-16.00.02
+[2023.11.09-15.00.02:103][177]LogWorld: Bringing up level for play took: 0.003938
+[2023.11.09-15.00.02:106][177]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2023.11.09-15.00.02:108][177]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.11.09-15.00.02:108][177]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.11.09-15.00.02:109][177]PIE: Server logged in
+[2023.11.09-15.00.02:110][177]PIE: Play in editor total start time 0,114 seconds.
+[2023.11.09-15.00.02:859][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-15.00.02:859][257]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.11.09-15.00.02:859][257]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-15.00.02:860][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-15.00.02:873][257]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.09-15.00.02:879][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-15.00.02:908][257]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.09-15.00.02:909][257]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2023.11.09-15.00.02:909][257]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.11.09-15.00.02:911][257]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.11.09-15.00.02:914][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-15.00.02:916][257]LogSlate: Slate User Unregistered.  User Index 8
+[2023.11.09-15.00.02:916][257]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.11.09-15.00.02:918][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.11.09-15.00.02:951][258]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2023.11.09-15.00.19:527][957]BlueprintLog: New page: Compile BP_PlatformGraviton
+[2023.11.09-15.00.19:583][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.11.09-15.00.20:708][993]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.09-15.00.20:714][993]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.09-15.00.20:715][993]PIE: New page: PIE session: VRTemplateMap (9 nov. 2023 à 17:00:20)
+[2023.11.09-15.00.20:715][993]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.11.09-15.00.20:726][993]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010554s)
+[2023.11.09-15.00.20:726][993]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.010598s)
+[2023.11.09-15.00.20:726][993]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-15.00.20:726][993]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-15.00.20:726][993]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.11.09-15.00.20:727][993]LogPlayLevel: PIE: World Init took: (0.001082s)
+[2023.11.09-15.00.20:757][993]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.11.09-15.00.20:759][993]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2023.11.09-15.00.20:759][993]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.09-15.00.20:759][993]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.09-15.00.20:759][993]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.09-15.00.20:759][993]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.09-15.00.20:759][993]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.09-15.00.20:759][993]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.09-15.00.20:759][993]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.09-15.00.20:759][993]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.09-15.00.20:760][993]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.09-15.00.20:760][993]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.09-15.00.20:760][993]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.09-15.00.20:763][993]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.09-15.00.20:774][993]LogAudioMixer: Display: Using Audio Hardware Device Casque (Oculus Virtual Audio Device)
+[2023.11.09-15.00.20:774][993]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.09-15.00.20:774][993]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.09-15.00.20:774][993]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.09-15.00.20:776][993]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2023.11.09-15.00.20:776][993]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2023.11.09-15.00.20:777][993]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2023.11.09-15.00.20:777][993]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2023.11.09-15.00.20:777][993]LogInit: FAudioDevice initialized with ID 21.
+[2023.11.09-15.00.20:777][993]LogAudio: Display: Audio Device (ID: 21) registered with world 'VRTemplateMap'.
+[2023.11.09-15.00.20:777][993]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2023.11.09-15.00.20:918][993]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-15.00.20:918][993]LogLoad: Game class is 'VRGameMode_C'
+[2023.11.09-15.00.20:924][993]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2023.11.09-16.00.20
+[2023.11.09-15.00.20:924][993]LogWorld: Bringing up level for play took: 0.005905
+[2023.11.09-15.00.20:927][993]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2023.11.09-15.00.20:930][993]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.11.09-15.00.20:932][993]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.11.09-15.00.20:935][993]PIE: Server logged in
+[2023.11.09-15.00.20:937][993]PIE: Play in editor total start time 0,222 seconds.
+[2023.11.09-15.00.20:951][993]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.11.09-15.00.22:335][131]LogBlueprintUserMessages: [BP_GravitonGame_C_1] success
+[2023.11.09-15.00.23:969][306]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-15.00.23:969][306]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.11.09-15.00.23:969][306]LogSlate: Window 'UE_ProjetVR Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.11.09-15.00.23:975][306]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-15.00.23:976][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-15.00.23:991][306]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.09-15.00.23:998][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-15.00.24:027][306]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.09-15.00.24:027][306]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2023.11.09-15.00.24:027][306]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.11.09-15.00.24:029][306]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.11.09-15.00.24:036][306]LogSlate: Slate User Unregistered.  User Index 8
+[2023.11.09-15.00.24:036][306]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.11.09-15.00.24:037][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.11.09-15.00.24:085][307]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2023.11.09-15.00.45:983][141]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.09-15.00.45:990][141]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.09-15.00.45:990][141]PIE: New page: PIE session: VRTemplateMap (9 nov. 2023 à 17:00:45)
+[2023.11.09-15.00.45:991][141]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.11.09-15.00.46:002][141]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011075s)
+[2023.11.09-15.00.46:002][141]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.011117s)
+[2023.11.09-15.00.46:002][141]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-15.00.46:002][141]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-15.00.46:003][141]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.11.09-15.00.46:003][141]LogPlayLevel: PIE: World Init took: (0.001034s)
+[2023.11.09-15.00.46:035][141]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.11.09-15.00.46:037][141]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2023.11.09-15.00.46:037][141]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.09-15.00.46:037][141]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.09-15.00.46:037][141]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.09-15.00.46:037][141]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.09-15.00.46:037][141]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.09-15.00.46:037][141]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.09-15.00.46:037][141]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.09-15.00.46:037][141]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.09-15.00.46:039][141]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.09-15.00.46:039][141]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.09-15.00.46:039][141]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.09-15.00.46:041][141]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.09-15.00.46:051][141]LogAudioMixer: Display: Using Audio Hardware Device Casque (Oculus Virtual Audio Device)
+[2023.11.09-15.00.46:051][141]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.09-15.00.46:052][141]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.09-15.00.46:052][141]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.09-15.00.46:053][141]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2023.11.09-15.00.46:053][141]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2023.11.09-15.00.46:055][141]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2023.11.09-15.00.46:055][141]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2023.11.09-15.00.46:055][141]LogInit: FAudioDevice initialized with ID 22.
+[2023.11.09-15.00.46:055][141]LogAudio: Display: Audio Device (ID: 22) registered with world 'VRTemplateMap'.
+[2023.11.09-15.00.46:055][141]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2023.11.09-15.00.46:059][141]LogLoad: Game class is 'VRGameMode_C'
+[2023.11.09-15.00.46:062][141]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2023.11.09-16.00.46
+[2023.11.09-15.00.46:062][141]LogWorld: Bringing up level for play took: 0.003603
+[2023.11.09-15.00.46:064][141]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2023.11.09-15.00.46:067][141]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.11.09-15.00.46:069][141]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.11.09-15.00.46:070][141]PIE: Server logged in
+[2023.11.09-15.00.46:071][141]PIE: Play in editor total start time 0,08 seconds.
+[2023.11.09-15.00.47:603][317]LogBlueprintUserMessages: [BP_GravitonGame_C_1] success
+[2023.11.09-15.00.48:888][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-15.00.48:888][467]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.11.09-15.00.48:889][467]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-15.00.48:889][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-15.00.48:904][467]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.09-15.00.48:910][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-15.00.48:938][467]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.09-15.00.48:938][467]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2023.11.09-15.00.48:938][467]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.11.09-15.00.48:940][467]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.11.09-15.00.48:944][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-15.00.48:946][467]LogSlate: Slate User Unregistered.  User Index 8
+[2023.11.09-15.00.48:946][467]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.11.09-15.00.48:948][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.11.09-15.00.48:986][468]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2023.11.09-15.00.56:516][143]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.11.09-15.00.56:516][143]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.11.09-15.01.00:062][462]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.09-15.01.00:071][462]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.09-15.01.00:071][462]PIE: New page: PIE session: VRTemplateMap (9 nov. 2023 à 17:01:00)
+[2023.11.09-15.01.00:108][462]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.11.09-15.01.00:118][462]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010998s)
+[2023.11.09-15.01.00:118][462]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.011043s)
+[2023.11.09-15.01.00:118][462]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-15.01.00:119][462]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-15.01.00:119][462]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.11.09-15.01.00:119][462]LogPlayLevel: PIE: World Init took: (0.000998s)
+[2023.11.09-15.01.00:149][462]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.11.09-15.01.00:151][462]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2023.11.09-15.01.00:151][462]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.09-15.01.00:151][462]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.09-15.01.00:151][462]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.09-15.01.00:151][462]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.09-15.01.00:152][462]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.09-15.01.00:152][462]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.09-15.01.00:152][462]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.09-15.01.00:152][462]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.09-15.01.00:152][462]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.09-15.01.00:152][462]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.09-15.01.00:152][462]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.09-15.01.00:154][462]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.09-15.01.00:164][462]LogAudioMixer: Display: Using Audio Hardware Device Casque (Oculus Virtual Audio Device)
+[2023.11.09-15.01.00:164][462]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.09-15.01.00:164][462]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.09-15.01.00:164][462]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.09-15.01.00:166][462]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2023.11.09-15.01.00:166][462]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2023.11.09-15.01.00:168][462]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2023.11.09-15.01.00:168][462]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2023.11.09-15.01.00:168][462]LogInit: FAudioDevice initialized with ID 23.
+[2023.11.09-15.01.00:168][462]LogAudio: Display: Audio Device (ID: 23) registered with world 'VRTemplateMap'.
+[2023.11.09-15.01.00:168][462]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2023.11.09-15.01.00:171][462]LogLoad: Game class is 'VRGameMode_C'
+[2023.11.09-15.01.00:174][462]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2023.11.09-16.01.00
+[2023.11.09-15.01.00:175][462]LogWorld: Bringing up level for play took: 0.003816
+[2023.11.09-15.01.00:177][462]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2023.11.09-15.01.00:179][462]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.11.09-15.01.00:181][462]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.11.09-15.01.00:182][462]PIE: Server logged in
+[2023.11.09-15.01.00:183][462]PIE: Play in editor total start time 0,114 seconds.
+[2023.11.09-15.01.01:683][633]LogBlueprintUserMessages: [BP_GravitonGame_C_1] Hello
+[2023.11.09-15.01.03:119][800]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-15.01.03:120][800]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.11.09-15.01.03:120][800]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-15.01.03:121][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-15.01.03:130][800]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.09-15.01.03:135][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-15.01.03:164][800]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-15.01.03:164][800]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2023.11.09-15.01.03:164][800]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.11.09-15.01.03:165][800]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.11.09-15.01.03:171][800]LogSlate: Slate User Unregistered.  User Index 8
+[2023.11.09-15.01.03:171][800]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.11.09-15.01.03:173][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.11.09-15.01.03:214][801]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2023.11.09-15.01.14:647][843]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.09-15.01.14:655][843]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.09-15.01.14:655][843]PIE: New page: PIE session: VRTemplateMap (9 nov. 2023 à 17:01:14)
+[2023.11.09-15.01.14:655][843]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.11.09-15.01.14:666][843]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011074s)
+[2023.11.09-15.01.14:666][843]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.011116s)
+[2023.11.09-15.01.14:666][843]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.09-15.01.14:667][843]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.09-15.01.14:667][843]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.11.09-15.01.14:667][843]LogPlayLevel: PIE: World Init took: (0.001025s)
+[2023.11.09-15.01.14:696][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.11.09-15.01.14:698][843]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2023.11.09-15.01.14:698][843]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.09-15.01.14:698][843]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.09-15.01.14:698][843]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.09-15.01.14:698][843]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.09-15.01.14:698][843]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.09-15.01.14:698][843]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.09-15.01.14:698][843]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.09-15.01.14:698][843]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.09-15.01.14:699][843]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.09-15.01.14:699][843]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.09-15.01.14:699][843]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.09-15.01.14:701][843]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.09-15.01.14:712][843]LogAudioMixer: Display: Using Audio Hardware Device Casque (Oculus Virtual Audio Device)
+[2023.11.09-15.01.14:712][843]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.09-15.01.14:712][843]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.09-15.01.14:712][843]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.09-15.01.14:713][843]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2023.11.09-15.01.14:713][843]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2023.11.09-15.01.14:715][843]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2023.11.09-15.01.14:715][843]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2023.11.09-15.01.14:715][843]LogInit: FAudioDevice initialized with ID 24.
+[2023.11.09-15.01.14:715][843]LogAudio: Display: Audio Device (ID: 24) registered with world 'VRTemplateMap'.
+[2023.11.09-15.01.14:715][843]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2023.11.09-15.01.14:718][843]LogLoad: Game class is 'VRGameMode_C'
+[2023.11.09-15.01.14:721][843]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2023.11.09-16.01.14
+[2023.11.09-15.01.14:722][843]LogWorld: Bringing up level for play took: 0.003694
+[2023.11.09-15.01.14:725][843]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2023.11.09-15.01.14:727][843]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.11.09-15.01.14:728][843]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.11.09-15.01.14:729][843]PIE: Server logged in
+[2023.11.09-15.01.14:730][843]PIE: Play in editor total start time 0,076 seconds.
+[2023.11.09-15.01.16:263][ 14]LogBlueprintUserMessages: [BP_GravitonGame_C_1] Hello
+[2023.11.09-15.01.16:263][ 14]LogBlueprintUserMessages: [BP_GravitonGame_C_1] success
+[2023.11.09-15.01.21:669][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-15.01.21:669][657]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.11.09-15.01.21:669][657]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.09-15.01.21:669][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-15.01.21:678][657]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.09-15.01.21:684][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.09-15.01.21:713][657]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.09-15.01.21:713][657]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2023.11.09-15.01.21:713][657]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.11.09-15.01.21:715][657]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.11.09-15.01.21:719][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.09-15.01.21:721][657]LogSlate: Slate User Unregistered.  User Index 8
+[2023.11.09-15.01.21:721][657]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.11.09-15.01.21:723][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.11.09-15.01.21:765][658]LogPlayLevel: Display: Destroying online subsystem :Context_43
