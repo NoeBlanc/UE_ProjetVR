@@ -73,3 +73,7 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 UE_ProjetVR/Intermediate/CachedAssetRegistry.bin
+UE_ProjetVR/Saved/Logs/UE_ProjetVR.log
+UE_ProjetVR/Saved/AutoScreenshot.png
+UE_ProjetVR/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+UE_ProjetVR/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
